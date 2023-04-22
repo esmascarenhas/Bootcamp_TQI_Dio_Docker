@@ -17,7 +17,8 @@ Projeto Criando um Container de uma Aplicação WEB
 	<h2> 👣 Solução</h2>
   🔸 <strong> criado um container com uma aplicação apache e um diretório website com uma aplicação web - jogo da memória </strong>
   
-    🔸 <strong> para acessar a aplicação, siga os passos seguintes: </strong>
+  🔸 <strong> para acessar a aplicação, siga os passos seguintes: </strong>
+  
 <br>
 	   🔹 Faça um clone do projeto;<br>
 	   🔹 Dentro do Diretório onde criou o clone, execute o comando docker compose up -d;<br>
